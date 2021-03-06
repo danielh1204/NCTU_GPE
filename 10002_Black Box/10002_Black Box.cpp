@@ -21,7 +21,7 @@ void sort(vector<int>& vec)
 
 int main()
 {
-	vector<vector<int>> vec;
+	vector<vector<int> > vec;
 	int M, N;
 	cin >> M >> N;
 	int c = 0;
