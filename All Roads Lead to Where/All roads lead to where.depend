@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615279694 source:c:\users\user\desktop\code\nctu gpe\all roads lead to where\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

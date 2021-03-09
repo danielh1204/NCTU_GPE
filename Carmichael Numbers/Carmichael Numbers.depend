@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615282789 source:c:\users\user\desktop\code\nctu gpe\carmichael numbers\main.cpp
+	<iostream>
+	<cmath>
+
